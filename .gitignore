@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Hugo build artifacts
+public/
+resources/
+.hugo_build.lock
+
+# Optional: local Netlify folder if you ever use it
+.netlify/

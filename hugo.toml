@@ -1,0 +1,14 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Redwood Reviews"
+theme = "PaperMod"
+
+[params]
+  author = "Cade & Cooper"
+  ShowReadingTime = true
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+
