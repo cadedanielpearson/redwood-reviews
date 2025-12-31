@@ -12,3 +12,9 @@ theme = "PaperMod"
   url = "/about/"
   weight = 1
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
