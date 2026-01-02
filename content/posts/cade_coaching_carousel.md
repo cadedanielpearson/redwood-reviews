@@ -6,7 +6,7 @@ tags: ["review"]
 cover:
   image: "/images/whittingham.jpg"
   alt: "Kyle Whittingham at Michigan's Introductory Press Conference"
-draft = true
+draft: false
 ---
 
 This year in college football was like an episode of The Apprentice. Heads rolled. "You're fired" (spoken in Michael Scott's voice as he impersonates Trump) was heard by around 15 head coaches from schools at the FBS level. More than 30 coaches have already taken new head jobs. This is a hell of a carousel, and here's some of my thoughts. Naturally, let's start with Oklahoma State.
