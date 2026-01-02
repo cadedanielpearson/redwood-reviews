@@ -1,6 +1,11 @@
 ---
 title: "Cooper's 2025 Year in Music"
 date: 2026-01-01
+author: "Cooper"
+tags: ["review"]
+cover:
+  image: "/images/cooper_2025.jpg"
+  alt: "Cooper, Cade & Co. at Boys of Oklahoma Festival"
 draft: false
 ---
 
