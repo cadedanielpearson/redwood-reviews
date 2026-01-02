@@ -31,7 +31,7 @@ Let's take stock, shall we? You have a 5 star QB who plays like a high school ki
 
 ## Penn State put around a dozen agents into a new tax bracket
 
-There was a moment, around mid-November, that the boys up in State College were essentially running a charity for head coaches seeking extensions. If he had a pulse and was at a Power 4 school, they called him, and immediately that guy would get extended. An agent's dream. Cig, Kalani Sitake, Clark Lea, Joey McGuire, Mike Elko, Kenny Dillingham, and who knows how many others got extensions because Penn State dialed up. They eventually landed on Matt Campbell, a hire I wasn't as excited about as the general public was. But still impressive that they pulled Campbell away from Penn State.
+There was a moment, around mid-November, that the boys up in State College were essentially running a charity for head coaches seeking extensions. If he had a pulse and was at a Power 4 school, they called him, and immediately that guy would get extended. An agent's dream. Cig, Kalani Sitake, Clark Lea, Joey McGuire, Mike Elko, Kenny Dillingham, and who knows how many others got extensions because Penn State dialed up. They eventually landed on Matt Campbell, a hire I wasn't as excited about as the general public was. But still impressive that they pulled Campbell away from Iowa State.
 
 ## Pat Fitzgerald is ready to get back in the game
 
