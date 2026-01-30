@@ -5,14 +5,14 @@ draft: false
 
 Here's two more for you. Put that email down.
 
-<form action="https://buttondown.com/api/emails/embed-subscribe/cadedanielpearson"
+<form action="https://buttondown.email/api/emails/embed-subscribe/cadedanielpearson"
       method="post"
       class="embeddable-buttondown-form">
   <label for="bd-email">Enter your email</label>
   <input type="email" name="email" id="bd-email" />
   <input type="submit" value="Subscribe" />
   <p>
-    <a href="https://buttondown.com/refer/cadedanielpearson" target="_blank">
+    <a href="https://buttondown.email/refer/cadedanielpearson" target="_blank">
       Powered by Buttondown.
     </a>
   </p>
